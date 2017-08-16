@@ -1,7 +1,8 @@
 # extract-var
 
-This package provide some little functionalities for very common text
-manipulation patterns.
+Extract var, let and const.
+
+![](https://raw.githubusercontent.com/germtb/gifs/master/extract-var.gif)
 
 ### Extract var, let or const
 
