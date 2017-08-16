@@ -1,0 +1,21 @@
+{
+	"name": "extract-var",
+	"main": "./lib/extract-var",
+	"version": "0.0.0",
+	"description": "Extract var, let or const",
+	"keywords": [
+		"refactor",
+		"javascript"
+	],
+	"activationEvents": [
+		"extract-var:var",
+		"extract-let:let",
+		"extract-const:const"
+	],
+	"repository": "https://github.com/germtb/atom-extract-var",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {}
+}

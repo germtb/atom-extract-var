@@ -1,0 +1,6 @@
+{
+	"atom-workspace atom-text-editor:not([mini])": {
+		"cmd-shift-c": "extract-var:const",
+		"cmd-shift-v": "extract-var:var"
+	}
+}
